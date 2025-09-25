@@ -12,9 +12,9 @@ img {
   max-width: 100%;
   height: auto;
 }
-dir {
+div {
   text-align: center;
 }
 ul {
-  text-align: center;
+  text-align: left;
 }
